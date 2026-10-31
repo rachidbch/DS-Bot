@@ -42,3 +42,9 @@ instance on the `dsbot` host: the Bots you talk to are built from `ds-bot/` here
 
 Production is `/opt/dsbot/source`. Nobody edits it and nobody edits `/data` directly; all
 changes go through the steps above.
+
+## Dev bench preview
+
+A preview of the Bots dev bench is at <https://ds-bot-dev.komodo-everest.ts.net>. It runs
+the mock model, so it needs no API key and makes no real model calls.
+
